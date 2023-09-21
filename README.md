@@ -1,6 +1,6 @@
 # Stopwatcher Time App
 
-![Screenshot 1](images/sopwatch.png)
+![Screenshot 1](images/stopwatch.png)
 
 ## Overview
 Stopwatcher Time App is a simple yet powerful web application designed to help you manage your time effectively. Whether you want to track the time you spend on projects, tasks or simply time activities, Stopwatcher Time App is there for you.
