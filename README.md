@@ -1,9 +1,3 @@
-# stopwatch_timer_app
-
-Of course, here is the updated description with the technologies used:
-
----
-
 # Stopwatcher Time App
 
 ![Screenshot 1](screenshot1.png)
