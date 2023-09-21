@@ -1,6 +1,6 @@
 # Stopwatcher Time App
 
-![Screenshot 1](screenshot1.png)
+![Screenshot 1](images/sopwatch.png)
 
 ## Overview
 Stopwatcher Time App is a simple yet powerful web application designed to help you manage your time effectively. Whether you want to track the time you spend on projects, tasks or simply time activities, Stopwatcher Time App is there for you.
@@ -12,8 +12,8 @@ Stopwatcher Time App is a simple yet powerful web application designed to help y
 
 
 ## Screenshots
-![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshot2.png)
+![Screenshot 1](images/screenshot1.png)
+![Screenshot 2](images/screenshot2.png)
 
 ## Installation
 1. Clone this repository: `git clone https://github.com/Eud15/stopwatch_timer_app`
